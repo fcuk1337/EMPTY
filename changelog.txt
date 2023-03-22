@@ -1,5 +1,20 @@
-12/03/23
+12/03/23 - 1.0.2
 
 автотюн
 rx 10
 nexus
+
+
+22/03/23 - 1.0.4
+
+added: 
+* light-theme
+* search function
+
+updated:
+* ableton 11.2.10
+* ozone 10.4.0
+* shaperbox 3.2.3
+
+//
+
