@@ -1,11 +1,17 @@
-12/03/23 - 1.0.2
+1.0.2
+12/03/23
 
-автотюн
-rx 10
-nexus
+added:
+* nexus 4.5.4
+
+updated:
+* auto-tune 10.2.0
+* rx 10.4.0
 
 
-22/03/23 - 1.0.4
+
+1.0.4
+22/03/23
 
 added: 
 * light-theme
@@ -16,5 +22,6 @@ updated:
 * ozone 10.4.0
 * shaperbox 3.2.3
 
-//
 
+
+//
