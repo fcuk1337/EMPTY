@@ -23,5 +23,10 @@ updated:
 * shaperbox 3.2.3
 
 
+1.0.5
+24/03/23
+
+updated:
+* fabfilter 2023.3
 
 //
