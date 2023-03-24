@@ -29,4 +29,7 @@ updated:
 updated:
 * fabfilter 2023.3
 
+fixed:
+* favicon
+
 //
