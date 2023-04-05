@@ -115,9 +115,9 @@ const cards = [
     img: '/img/plugins/arturia.webp',
     name: 'FX Collection',
     publisher: 'Arturia',
-    version: '2023.1',
+    version: '2023.4',
     source:
-      '/source/plugins/Arturia - FX Collection 2023.1 CE-V.R Rev2.torrent',
+      '/source/plugins/Arturia - FX Collection 2023.4 CE-V.R.torrent',
   },
   {
     img: '/img/plugins/soundtoys.webp',
