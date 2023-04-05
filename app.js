@@ -43,9 +43,9 @@ const cards = [
     img: '/img/plugins/fabfilter.webp',
     name: 'Bundle',
     publisher: 'FabFilter',
-    version: '2023.03.16',
+    version: '2023.03.21',
     source:
-      '/source/plugins/FabFilter - Total Bundle 2023.3 [CE-V.R].torrent',
+      '/source/plugins/FabFilter - Total Bundle v2023.03.21.torrent',
   },
   {
     img: '../img/plugins/valhalla.webp',
